@@ -13,8 +13,11 @@ function Header(){
     else{
         return(
             <nav>
+                <h1>MeadowMade</h1>
                 <a href="/">Home</a> 
+                <br />
                 <a href="/products">Products</a> 
+                <br />
                 <a href="/login">Login</a> 
             </nav>
         )}
